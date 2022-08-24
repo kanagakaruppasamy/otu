@@ -1,0 +1,15 @@
+body
+{
+  color: white;
+  background-image:radial-gradient( orange, red, maroon);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 320px;
+  height: 270px; 
+}
